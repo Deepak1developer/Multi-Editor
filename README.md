@@ -25,3 +25,15 @@ Currently, the application is in its development phase.
   - Lables for Count and Positions of stringA in the file.
   - Success or Failure message label.
   - Replace button to replace all the occurrences of the searched string, to the string that is to be replaced with the searched string.
+  
+  
+# How to run in you system.
+- Clone the Repository using git clone <link of repo>.
+- Open the terminal and reach to the directory where repository is cloned.
+- After reaching to MultiEditor directory, Run the following command:
+  ## python MultiEditor.py
+  then provide the input as asked by the computer.
+  after providing the input please do re-check your files, regarding the changes.
+  
+
+
